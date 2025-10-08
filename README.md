@@ -40,7 +40,7 @@ To contribute:
 5.  Push to the branch (`git push origin feature/YourProjectName`).
 6.  Open a Pull Request, describing your contribution in detail.
 
-Please read our `CONTRIBUTING.md` (to be created) for more detailed guidelines.
+Please read our `CONTRIBUTING.md`  for more detailed guidelines.
 
 ### ❓ Questions & Support
 

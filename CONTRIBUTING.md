@@ -21,8 +21,5 @@ We welcome contributions! To keep things organized and effective, please follow 
 *   **Improvements:** Enhancements to existing projects, clearer instructions, bug fixes.
 *   **Documentation:** Better explanations, additional resources.
 
-## Code of Conduct
-
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) (to be created) in all interactions.
 
 Thank you for helping to build this resource!
